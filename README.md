@@ -1,0 +1,1 @@
+# Captcha-solver-for-Google-chrome-Firefox-extension-for-Funcaptcha
